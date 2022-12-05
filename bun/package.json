@@ -3,7 +3,11 @@
   "module": "index.ts",
   "type": "module",
   "devDependencies": {
+    "@types/lodash": "^4.14.191",
     "bun-types": "^0.2.0",
     "eslint": "^8.28.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
   }
 }
